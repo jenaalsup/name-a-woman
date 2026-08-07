@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Name a Woman",
-  description: "Name as many women or video games as you can in 3 minutes.",
+  description:
+    "Name as many women, men, or video games as you can in 3 minutes.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
