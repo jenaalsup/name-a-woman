@@ -11,9 +11,6 @@ export default function Home() {
         <Link href="/play/women" className="text-lg underline underline-offset-4">
           name a woman
         </Link>
-        <Link href="/play/men" className="text-lg underline underline-offset-4">
-          name a man
-        </Link>
         <Link href="/play/games" className="text-lg underline underline-offset-4">
           name a video game
         </Link>
